@@ -24,3 +24,6 @@
 
 - LinkedIn: [/in/EamnuelRdzM](https://www.linkedin.com/in/EmanuelRdzM)
 - Correo electrónico: [j.emanuel.rdz.m@hotmail.com](j.emanuel.rdz.m@hotmail.com)
+<!--
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EmanuelRdzM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
