@@ -22,5 +22,5 @@
 
 ## Connect with me
 
-- LinkedIn: [Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/EmanuelRdzM)
-- Correo electrónico: [tu@email.com](j.emanuel.rdz.m@hotmail.com)
+- LinkedIn: [/in/EamnuelRdzM](https://www.linkedin.com/in/EmanuelRdzM)
+- Correo electrónico: [j.emanuel.rdz.m@hotmail.com](j.emanuel.rdz.m@hotmail.com)
