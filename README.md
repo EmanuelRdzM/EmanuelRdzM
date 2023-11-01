@@ -1,5 +1,5 @@
 ### Hi there, I'm Emanuel - (Alias: Parker) 👋
-## A Jr developer from MX
+## A Student developer from MX
 
 ## Skills
 - Programming Languages: Python, JavaScript
