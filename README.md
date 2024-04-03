@@ -1,4 +1,4 @@
-### Hi there, I'm Emanuel - (Alias: Parker) 👋
+### Hi there, I'm Emanuel 👋
 ## A Student developer from MX
 
 ## Skills
