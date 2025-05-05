@@ -7,9 +7,9 @@
 - **Backend:** Node.js, Express.js, Firebase Functions  
 - **Bases de datos:**  
   - Relacionales: MySQL, PostgreSQL (usando Sequelize)  
-  - No Relacionales: Firestore (Firebase), MongoDB (con Mongoose)  
-- **ORM/ODM:** Sequelize, Mongoose  
-- **DevOps & Cloud:** Firebase Hosting, Firebase Auth, Vercel, Netlify  
+  - No Relacionales: Firestore (Firebase), MongoDB
+- **ORM/ODM:** Sequelize
+- **DevOps & Cloud:** Firebase Hosting, Firebase Auth, Vercel  
 - **Control de versiones:** Git, GitHub  
 - **Herramientas:** VS Code, Postman, npm, yarn  
 - **Otros conocimientos:** APIs RESTful, CRUD, diseño de arquitecturas frontend/backend, manejo de estado (Redux, Vuex), debugging, resolución de problemas y pensamiento lógico
