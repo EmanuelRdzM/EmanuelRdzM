@@ -23,7 +23,7 @@
 
 <a href="http://www.github.com/EmanuelRdzM"><img src="https://github-readme-stats.vercel.app/api?username=EmanuelRdzM&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=false&show_icons=true" alt="EmanuelRdzM's GitHub stats" align="left" /></a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=EmanuelRdzM&theme=radical&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmanuelRdzM&theme=transparent&border_radius=1.4&locale=es&card_width=450)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanuelRdzM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=3382ed&text_color=14b8a6&bg_color=1c1917&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
