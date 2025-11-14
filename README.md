@@ -1,55 +1,52 @@
+<h1 align="center"><b>Hi, I'm Emanuel Rdz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+## About Me
+I am an Information Technologies graduate with a focus on software development, both frontend and backend. I have practical experience through internships and collaborative projects, and I currently work as a web developer. I enjoy building functional, user-friendly, and innovative solutions. Among my projects are:
 
-## 🛠 Skills
-- **Lenguajes de programación:** JavaScript, Python, Dart  
-- **Frontend Web:** HTML5, CSS3, JavaScript (ES6+), React (Hooks), Vue.js (CLI, Router, Vuex)  
-- **Desarrollo Móvil:** Flutter (Dart)  
+- A **POS system** for a café  
+- A collaboration with a friend on a **dating app**
+- Sales Management System (CRM-style) – System for managing projects, sales, and client interactions.
+
+I am passionate about learning new technologies, improving my skills, and delivering high-quality software that solves real problems.
+
+## 💻 Main Stack
+- **Programming Languages:** JavaScript, Python, Dart  
+- **Frontend Web:** HTML5, CSS3, Vue.js  
+- **Mobile Development:** Flutter (Dart)  
 - **Backend:** Node.js, Express.js, Firebase Functions  
-- **Bases de datos:**  
-  - Relacionales: MySQL, PostgreSQL (usando Sequelize)  
-  - No Relacionales: Firestore (Firebase), MongoDB
-- **ORM/ODM:** Sequelize
+- **Databases:**  
+  - Relational: MySQL, PostgreSQL  
+  - NoSQL: Firestore  
+- **ORM/ODM:** Sequelize  
 - **DevOps & Cloud:** Firebase Hosting, Firebase Auth, Vercel  
-- **Control de versiones:** Git, GitHub  
-- **Herramientas:** VS Code, Postman, npm, yarn  
-- **Otros conocimientos:** APIs RESTful, CRUD, diseño de arquitecturas frontend/backend, manejo de estado (Redux, Vuex), debugging, resolución de problemas y pensamiento lógico
+- **Version Control:** Git, GitHub  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+## 🛠 My Skills Include
 
-<b>My GitHub Stats</b>
+<h4>Languages</h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
 
+<h4>Other Tools and Technologies</h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
 
-<a href="http://www.github.com/EmanuelRdzM"><img src="https://github-readme-stats.vercel.app/api?username=EmanuelRdzM&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=14b8a6&icon_color=64748b&bg_color=1c1917&hide_border=false&show_icons=true" alt="EmanuelRdzM's GitHub stats" align="left" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmanuelRdzM&theme=transparent&border_radius=1.4&locale=es&card_width=450)](https://git.io/streak-stats)</br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanuelRdzM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=3382ed&text_color=14b8a6&bg_color=1c1917&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-<!--
-## Proyectos destacados
-
-- [Proyecto 1](enlace-al-proyecto): Breve descripción del proyecto y enlace al repositorio.
-- [Proyecto 2](enlace-al-proyecto): Breve descripción del proyecto y enlace al repositorio.
-- [Proyecto 3](enlace-al-proyecto): Breve descripción del proyecto y enlace al repositorio.
--->
-
-<br/>  
-
-## Connect with me  
+## 🔗 Connect with me  
 <div align="center">
-<a href="https://github.com/EmanuelRdzM" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/EmanuelRdzM" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/EmanuelRdzM" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
+  <a href="https://linkedin.com/in/EmanuelRdzM" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/EmanuelRdzM" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
+  </a>  
+</div>
